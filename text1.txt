@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4642-CD21
+
+ Directory of C:\Users\Arun\Desktop\MyProject
+
+03/27/2019  12:20 PM    <DIR>          .
+03/27/2019  12:20 PM    <DIR>          ..
+03/27/2019  12:20 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  533,610,242,048 bytes free
